@@ -82,6 +82,7 @@ backdrop-filter: blur(10px);
     border: 4px solid var(--card-back-color);
 }
 
+
 @media (max-width: 560px) {
     
     body {
@@ -97,6 +98,6 @@ backdrop-filter: blur(10px);
     }
 
     .cartao__conteudo p {
-        font-size: 5px;
+        font-size: 3.8vw;
     }
 }
